@@ -1,3 +1,4 @@
-# Projeto Interdisciplinar
+Fatec Araras, Curso Tecnologia em Desenvolvimento de Software Multiplataforma, Projeto Integrador 1º Semestre
 
-Projeto Interdisciplinar do Grupo 3 do 1º Semestre do Curso de Tecnologia em Desenvolvimento de Software Multiplataforma (DSM) da Fatec Araras.
+Apresentação do Projeto
+
